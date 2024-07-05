@@ -7,7 +7,7 @@ Contact: github.governance.team@noaa.gov
 ## How to find repositories? 
 
 Click on the repositories tab above. If you would like to start a new private repository you must use the internal template. 
-- See the [AKRO template]([https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/contact#h.30qpfj9baepw](https://github.com/noaa-akro/AKRO-template))
+- See the [AKRO template](https://github.com/noaa-akro/AKRO-template)
 
 
 ## Resources
