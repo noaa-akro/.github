@@ -6,13 +6,11 @@ Contact: github.governance.team@noaa.gov
 
 ## How to find repositories? 
 
-Click on repositories tab and search for a topic (stock-assessment, ggt, etc.) or program (e.g. the national stock assessment program, NSAP). 
+Coming soon!
 
-## How to get help
-  - Please [open an issue on the admin repository](https://github.com/nmfs-ost/admin/issues).
 
 ## Resources
-  - See the [OST representatives on the GitHub Governance Team](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/contact#h.30qpfj9baepw)
+  - See the [AKRO representatives on the GitHub Governance Team](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/contact#h.30qpfj9baepw)
   - [FAQ about GitHub Enterprise at NOAA Fisheries](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/faq)
   - [GitHub training resources](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/github-users#h.316z1s7eyoa3)
 
