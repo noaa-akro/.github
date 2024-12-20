@@ -22,7 +22,7 @@ Contact: [github.governance.team\@noaa.gov](mailto:github.governance.team@noaa.g
 
 -   [cas-jupyter](https://github.com/noaa-akro/cas-jupyter) - Analysis tools for frequently performed operations in CAS
 
--   [Observer-Interface](https://github.com/noaa-akro/Observer-Interface)} - AFSC's data interface for CAS
+-   [Observer-Interface](https://github.com/noaa-akro/Observer-Interface) - AFSC's data interface for CAS
 
 -   Database Schemas
 
