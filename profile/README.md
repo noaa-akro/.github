@@ -40,7 +40,29 @@ Contact: [github.governance.team\@noaa.gov](mailto:github.governance.team@noaa.g
 
 ## Co-Pilot
 
-**While Co-Pilot is enabled in GitHub (free tier) it is not available for general use.**
+**While Co-Pilot is enabled in GitHub (free tier) it is not available for general use. Authorized users for the generative AI Pilot: Jason Gasper, Phil Ganz, Craig Millard**
+
+[DOC Interim Policy of Use of Generative AI](https://drive.google.com/file/d/1Td8IL-cnGq0M-ul4GSz3aGh-ZdpDQFzH/view)
+
+## Do not check-in Confidential / Sensitive Data 
+
+**This is a FISMA Low Zone, No PII/BII**
+
+A low impact level occurs when the loss of confidentiality, integrity, or availability could be expected to have a limited adverse effect on organizational operations, organizational assets, or individuals.
+
+A limited adverse effect means that, for example, the loss of confidentiality, integrity, or availability might: 
+
+-   Cause an interruption to mission capability, but the agency is still able to perform its primary functions 
+
+-   Effectiveness of functions is noticeably reduced
+
+-   Result in minor damage to organizational assets
+
+-   Result in minor financial loss
+
+-   Result in minor harm to individuals
+
+Review [AKRO's SOP](https://drive.google.com/file/d/1htxubjWXDVfa98uWULLPedPJgd6xVUi2/view)
 
 ## Resources
 
