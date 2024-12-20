@@ -1,15 +1,12 @@
 # NOAA Fisheries - Alaska Regional Office (AKRO)
 
-This GitHub organization is for members of the [Alaska Regional Office (AKRO)](%5Bhttps://www.fisheries.noaa.gov/about/office-science-and-technology%5D(https://www.fisheries.noaa.gov/about/alaska-regional-office)) and their collaborators. Onboarding and policy details can be found on the [ISD intranet](https://sites.google.com/noaa.gov/akr-intranet/divisions-and-programs/information-services/github).
+This GitHub organization is for members of the [Alaska Regional Office (AKRO)](%5Bhttps://www.fisheries.noaa.gov/about/office-science-and-technology%5D(https://www.fisheries.noaa.gov/about/alaska-regional-office)) and their collaborators. Onboarding and policy details can be found on the [ISD intranet](https://sites.google.com/noaa.gov/akr-intranet/divisions-and-programs/information-services/github). While descriptions of repsitories are available publically, much of AKRO's work focuses on management and are internal only. Typically data a science productions can be found within our partner's organizations, primarily: 
+[NOAA-AFSC](https://github.com/noaa-afsc)
 
 -   Data/Business Representative (Voting Member): Phil Ganz
-
 -   IT Representative (Voting Member): Craig Millard
-
 -   IT backup (1st Alternate): Chad Millen
-
 -   IT backup (2nd Alternate): Brian Lieb
-
 -   Controls : Vacant (Previously David Hanson)
 
 Contact: [github.governance.team\@noaa.gov](mailto:github.governance.team@noaa.gov)
@@ -17,25 +14,15 @@ Contact: [github.governance.team\@noaa.gov](mailto:github.governance.team@noaa.g
 ## Repositories
 
 -   [Hello-Quarto](https://github.com/noaa-akro/Hello-Quarto) - POC showing Quarto integation into an R project, allows deployment to OST's Posit Connect Instance
-
 -   [Crab_Rate_Testing](https://github.com/noaa-akro/Crab_Rate_Testing) - Analysis for updating Crab Estimations in CAS
-
 -   [cas-jupyter](https://github.com/noaa-akro/cas-jupyter) - Analysis tools for frequently performed operations in CAS
-
 -   [Observer-Interface](https://github.com/noaa-akro/Observer-Interface) - AFSC's data interface for CAS
-
 -   Database Schemas
-
     -   [AKFISH_REPORT](https://github.com/noaa-akro/AKFISH_REPORT) (Warehouse)
-
-    -   [AKFISH](https://github.com/noaa-akro/AKFISH)(OLTP)
-
+    -   [AKFISH](https://github.com/noaa-akro/AKFISH) (OLTP)
 -   [AKRO-Reports](AKRO-Reports)- Internal / External BIRT Reports
-
 -   Project Boards
-
     -   [operations](https://github.com/noaa-akro/operations)
-
     -   [FIS-IRA-Data-Modernization](https://github.com/noaa-akro/FIS-IRA-Data-Modernization)
 
 ## Co-Pilot
