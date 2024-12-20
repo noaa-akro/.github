@@ -12,31 +12,31 @@ This GitHub organization is for members of the [Alaska Regional Office (AKRO)](%
 
 -   Controls : Vacant (Previously David Hanson)
 
-Contact: [github.governance.team\@noaa.gov](mailto:github.governance.team@noaa.gov){.email}
+Contact: [github.governance.team\@noaa.gov](mailto:github.governance.team@noaa.gov)
 
 ## Repositories
 
--   [Hello-Quarto](https://github.com/noaa-akro/Hello-Quarto){.uri} - POC showing Quarto integation into an R project, allows deployment to OST's Posit Connect Instance
+-   [Hello-Quarto](https://github.com/noaa-akro/Hello-Quarto) - POC showing Quarto integation into an R project, allows deployment to OST's Posit Connect Instance
 
--   [Crab_Rate_Testing](https://github.com/noaa-akro/Crab_Rate_Testing){.uri} - Analysis for updating Crab Estimations in CAS
+-   [Crab_Rate_Testing](https://github.com/noaa-akro/Crab_Rate_Testing) - Analysis for updating Crab Estimations in CAS
 
--   [cas-jupyter](https://github.com/noaa-akro/cas-jupyter){.uri} - Analysis tools for frequently performed operations in CAS
+-   [cas-jupyter](https://github.com/noaa-akro/cas-jupyter) - Analysis tools for frequently performed operations in CAS
 
--   [Observer-Interface](https://github.com/noaa-akro/Observer-Interface){.uri} - AFSC's data interface for CAS
+-   [Observer-Interface](https://github.com/noaa-akro/Observer-Interface)} - AFSC's data interface for CAS
 
 -   Database Schemas
 
-    -   [AKFISH_REPORT](https://github.com/noaa-akro/AKFISH_REPORT){.uri} (Warehouse)
+    -   [AKFISH_REPORT](https://github.com/noaa-akro/AKFISH_REPORT) (Warehouse)
 
-    -   [AKFISH](https://github.com/noaa-akro/AKFISH){.uri} (OLTP)
+    -   [AKFISH](https://github.com/noaa-akro/AKFISH)(OLTP)
 
--   [AKRO-Reports](AKRO-Reports){.uri} - Internal / External BIRT Reports
+-   [AKRO-Reports](AKRO-Reports)- Internal / External BIRT Reports
 
 -   Project Boards
 
-    -   [operations](https://github.com/noaa-akro/operations){.uri}
+    -   [operations](https://github.com/noaa-akro/operations)
 
-    -   [FIS-IRA-Data-Modernization](https://github.com/noaa-akro/FIS-IRA-Data-Modernization){.uri}
+    -   [FIS-IRA-Data-Modernization](https://github.com/noaa-akro/FIS-IRA-Data-Modernization)
 
 ## Co-Pilot
 
