@@ -1,6 +1,6 @@
 # NOAA Fisheries - Alaska Regional Office (AKRO)
 
-This GitHub organization is for members of the [Alaska Regional Office (AKRO)](%5Bhttps://www.fisheries.noaa.gov/about/office-science-and-technology%5D(https://www.fisheries.noaa.gov/about/alaska-regional-office)) and their collaborators. Onboarding and policy details can be found on the [ISD intranet](https://sites.google.com/noaa.gov/akr-intranet/divisions-and-programs/information-services/github). While descriptions of repsitories are available publically, much of AKRO's work focuses on management and are internal only. Typically data and science products can be found within our partner's organizations, primarily: [NOAA-AFSC](https://github.com/noaa-afsc)
+This GitHub organization is for members of the [Alaska Regional Office (AKRO)](%5Bhttps://www.fisheries.noaa.gov/about/office-science-and-technology%5D(https://www.fisheries.noaa.gov/about/alaska-regional-office)) and their collaborators. On-boarding and policy details can be found on the [ISD intranet](https://sites.google.com/noaa.gov/akr-intranet/divisions-and-programs/information-services/github). While descriptions of repositories are available publicly, much of AKRO's work focuses on management and are internal only. Typically data and science products can be found within our partner's organizations, primarily: [NOAA-AFSC](https://github.com/noaa-afsc)
 
 -   Data/Business Representative (Voting Member): [Phil Ganz](https://www.fisheries.noaa.gov/contact/phil-ganz-ms)
 -   IT Representative (Voting Member): [Craig Millard](https://www.fisheries.noaa.gov/contact/craig-millard)
@@ -12,7 +12,9 @@ Contact: [github.governance.team\@noaa.gov](mailto:github.governance.team@noaa.g
 
 ## Repositories
 
--   [Hello-Quarto](https://github.com/noaa-akro/Hello-Quarto) - POC showing Quarto integation into an R project, allows deployment to OST's Posit Connect Instance
+-   [Hello-Quarto](https://github.com/noaa-akro/Hello-Quarto) - POC showing Quarto integration into an R project, allows deployment to OST's Posit Connect Instance
+-   [Quarto-Python-Demo](https://github.com/noaa-akro/Quarto-Python-Demo) - POC Showing Quarto using Python
+-   [Inseason Management Report](https://github.com/noaa-akro/inseason-report) - Presented annually to the NPFMC at December meeting
 -   [Crab_Rate_Testing](https://github.com/noaa-akro/Crab_Rate_Testing) - Analysis for updating Crab Estimations in CAS
 -   [cas-jupyter](https://github.com/noaa-akro/cas-jupyter) - Analysis tools for frequently performed operations in CAS
 -   [Observer-Interface](https://github.com/noaa-akro/Observer-Interface) - AFSC's data interface for CAS
@@ -39,13 +41,9 @@ A low impact level occurs when the loss of confidentiality, integrity, or availa
 A limited adverse effect means that, for example, the loss of confidentiality, integrity, or availability might: 
 
 -   Cause an interruption to mission capability, but the agency is still able to perform its primary functions
-
 -   Effectiveness of functions is noticeably reduced
-
 -   Result in minor damage to organizational assets
-
 -   Result in minor financial loss
-
 -   Result in minor harm to individuals
 
 Review [AKRO's SOP](https://drive.google.com/file/d/1htxubjWXDVfa98uWULLPedPJgd6xVUi2/view)
