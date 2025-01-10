@@ -15,6 +15,8 @@ Contact: [github.governance.team\@noaa.gov](mailto:github.governance.team@noaa.g
 -   [Hello-Quarto](https://github.com/noaa-akro/Hello-Quarto) - POC showing Quarto integration into an R project, allows deployment to OST's Posit Connect Instance
 -   [Quarto-Python-Demo](https://github.com/noaa-akro/Quarto-Python-Demo) - POC Showing Quarto using Python
 -   [Inseason Management Report](https://github.com/noaa-akro/inseason-report) - Presented annually to the NPFMC at December meeting
+-   [valhalla](https://github.com/noaa-akro/valhalla) - Dataset used mainly for Observer Program Annual Deployment Plans and Annual Reports
+-   [harvestspecs](https://github.com/noaa-akro/harvestspecs) - Annual harvest specifications process
 -   [Crab_Rate_Testing](https://github.com/noaa-akro/Crab_Rate_Testing) - Analysis for updating Crab Estimations in CAS
 -   [cas-jupyter](https://github.com/noaa-akro/cas-jupyter) - Analysis tools for frequently performed operations in CAS
 -   [Observer-Interface](https://github.com/noaa-akro/Observer-Interface) - AFSC's data interface for CAS
