@@ -3,7 +3,7 @@
 This GitHub organization is for members of the [Alaska Regional Office (AKRO)](%5Bhttps://www.fisheries.noaa.gov/about/office-science-and-technology%5D(https://www.fisheries.noaa.gov/about/alaska-regional-office)) and their collaborators. On-boarding and policy details can be found on the [ISD intranet](https://sites.google.com/noaa.gov/akr-intranet/divisions-and-programs/information-services/github). While descriptions of repositories are available publicly, much of AKRO's work focuses on management and are internal only. Typically data and science products can be found within our partner's organizations, primarily: [NOAA-AFSC](https://github.com/noaa-afsc)
 
 -   Data/Business Representative (Voting Member): [Phil Ganz](https://www.fisheries.noaa.gov/contact/phil-ganz-ms)
--   IT Representative (Voting Member): [Craig Millard](https://www.fisheries.noaa.gov/contact/craig-millard)
+-   IT Representative (Voting Member): [Jenny McBride](https://www.fisheries.noaa.gov/contact/jenny-mcbride)
 -   IT backup (1st Alternate): [Chad Millen](https://www.fisheries.noaa.gov/contact/chad-millen)
 -   IT backup (2nd Alternate): [Brian Lieb](https://www.fisheries.noaa.gov/contact/brian-lieb)
 -   Controls : Vacant (Previously David Hanson)
