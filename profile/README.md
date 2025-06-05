@@ -30,7 +30,7 @@ Contact: [github.governance.team\@noaa.gov](mailto:github.governance.team@noaa.g
 
 ## Co-Pilot
 
-**While Co-Pilot is enabled in GitHub (free tier) it is not available for general use. Authorized users for the generative AI Pilot: Jason Gasper, Phil Ganz, Craig Millard**
+**While Co-Pilot is enabled in GitHub (free tier) it is not available for general use. Authorized users for the generative AI Pilot: Jason Gasper and Phil Ganz**
 
 [DOC Interim Policy of Use of Generative AI](https://drive.google.com/file/d/1Td8IL-cnGq0M-ul4GSz3aGh-ZdpDQFzH/view)
 
